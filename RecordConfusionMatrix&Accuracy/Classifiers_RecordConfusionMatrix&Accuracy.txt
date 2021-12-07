@@ -1,0 +1,355 @@
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfLinearSVM_multilabel model
+Results of ClfLinearSVM_multilabel model
+Accuracy for training: 0.0
+Confusion matrix for training:
+Confusion matrix for label x0:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x1:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x2:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x3:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x4:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x5:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x6:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x7:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x8:
+[[1. 0.]
+ [1. 0.]]
+Accuracy for testing: 0.0
+Confusion matrix for testing:
+Confusion matrix for label x0:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x1:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x2:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x3:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x4:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x5:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x6:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x7:
+[[1. 0.]
+ [1. 0.]]
+Confusion matrix for label x8:
+[[1. 0.]
+ [1. 0.]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfRBFSVM_multilabel model
+Results of ClfRBFSVM_multilabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+Confusion matrix for label x0:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x1:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x2:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x3:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x4:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x5:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x6:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x7:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x8:
+[[1. 0.]
+ [0. 1.]]
+Accuracy for testing: 0.85
+Confusion matrix for testing:
+Confusion matrix for label x0:
+[[0.98 0.02]
+ [0.06 0.94]]
+Confusion matrix for label x1:
+[[0.98 0.02]
+ [0.07 0.93]]
+Confusion matrix for label x2:
+[[0.99 0.01]
+ [0.04 0.96]]
+Confusion matrix for label x3:
+[[0.98 0.02]
+ [0.1  0.9 ]]
+Confusion matrix for label x4:
+[[0.98 0.02]
+ [0.04 0.96]]
+Confusion matrix for label x5:
+[[0.98 0.02]
+ [0.06 0.94]]
+Confusion matrix for label x6:
+[[0.99 0.01]
+ [0.02 0.98]]
+Confusion matrix for label x7:
+[[0.98 0.02]
+ [0.06 0.94]]
+Confusion matrix for label x8:
+[[0.98 0.02]
+ [0.06 0.94]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfKNN_multilabel model
+Results of ClfKNN_multilabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+Confusion matrix for label x0:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x1:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x2:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x3:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x4:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x5:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x6:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x7:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x8:
+[[1. 0.]
+ [0. 1.]]
+Accuracy for testing: 0.86
+Confusion matrix for testing:
+Confusion matrix for label x0:
+[[1.   0.  ]
+ [0.12 0.88]]
+Confusion matrix for label x1:
+[[1.  0. ]
+ [0.2 0.8]]
+Confusion matrix for label x2:
+[[1.   0.  ]
+ [0.09 0.91]]
+Confusion matrix for label x3:
+[[1.   0.  ]
+ [0.18 0.82]]
+Confusion matrix for label x4:
+[[0.99 0.01]
+ [0.05 0.95]]
+Confusion matrix for label x5:
+[[1.   0.  ]
+ [0.18 0.82]]
+Confusion matrix for label x6:
+[[1.   0.  ]
+ [0.06 0.94]]
+Confusion matrix for label x7:
+[[1.   0.  ]
+ [0.21 0.79]]
+Confusion matrix for label x8:
+[[1.   0.  ]
+ [0.09 0.91]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfMLP_multilabel model
+Results of ClfMLP_multilabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+Confusion matrix for label x0:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x1:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x2:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x3:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x4:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x5:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x6:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x7:
+[[1. 0.]
+ [0. 1.]]
+Confusion matrix for label x8:
+[[1. 0.]
+ [0. 1.]]
+Accuracy for testing: 0.88
+Confusion matrix for testing:
+Confusion matrix for label x0:
+[[0.99 0.01]
+ [0.05 0.95]]
+Confusion matrix for label x1:
+[[0.99 0.01]
+ [0.03 0.97]]
+Confusion matrix for label x2:
+[[1.   0.  ]
+ [0.06 0.94]]
+Confusion matrix for label x3:
+[[0.98 0.02]
+ [0.06 0.94]]
+Confusion matrix for label x4:
+[[0.99 0.01]
+ [0.02 0.98]]
+Confusion matrix for label x5:
+[[0.98 0.02]
+ [0.04 0.96]]
+Confusion matrix for label x6:
+[[0.99 0.01]
+ [0.03 0.97]]
+Confusion matrix for label x7:
+[[0.98 0.02]
+ [0.06 0.94]]
+Confusion matrix for label x8:
+[[0.98 0.02]
+ [0.05 0.95]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfLinearSVM_singlelabel model
+Results of ClfLinearSVM_singlelabel model
+Accuracy for training: 0.37
+Confusion matrix for training:
+[[1.   0.   0.   0.   0.   0.   0.   0.   0.  ]
+ [0.51 0.15 0.17 0.   0.18 0.   0.   0.   0.  ]
+ [0.54 0.   0.3  0.   0.17 0.   0.   0.   0.  ]
+ [0.6  0.08 0.18 0.01 0.14 0.   0.   0.   0.  ]
+ [0.6  0.   0.   0.   0.4  0.   0.   0.   0.  ]
+ [0.58 0.1  0.25 0.   0.08 0.   0.   0.   0.  ]
+ [0.61 0.07 0.2  0.01 0.1  0.   0.   0.   0.  ]
+ [0.63 0.16 0.13 0.   0.08 0.   0.   0.   0.  ]
+ [0.58 0.07 0.3  0.   0.04 0.   0.   0.   0.  ]]
+Accuracy for testing: 0.35
+Confusion matrix for testing:
+[[1.   0.   0.   0.   0.   0.   0.   0.   0.  ]
+ [0.54 0.1  0.17 0.   0.2  0.   0.   0.   0.  ]
+ [0.6  0.   0.23 0.   0.17 0.   0.   0.   0.  ]
+ [0.62 0.05 0.18 0.01 0.14 0.   0.   0.   0.  ]
+ [0.6  0.   0.   0.   0.4  0.   0.   0.   0.  ]
+ [0.54 0.09 0.26 0.   0.11 0.   0.   0.   0.  ]
+ [0.56 0.08 0.2  0.02 0.14 0.   0.   0.   0.  ]
+ [0.6  0.18 0.18 0.   0.04 0.   0.   0.   0.  ]
+ [0.63 0.06 0.21 0.   0.1  0.   0.   0.   0.  ]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfRBFSVM_singlelabel model
+Results of ClfRBFSVM_singlelabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+[[1. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 1. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 1. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 1. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 1. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 1. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 1. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 1. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 1.]]
+Accuracy for testing: 0.94
+Confusion matrix for testing:
+[[0.96 0.   0.   0.   0.02 0.   0.01 0.   0.  ]
+ [0.02 0.94 0.01 0.01 0.01 0.   0.01 0.01 0.  ]
+ [0.01 0.01 0.94 0.02 0.   0.   0.01 0.   0.02]
+ [0.03 0.01 0.01 0.93 0.01 0.   0.   0.   0.01]
+ [0.06 0.   0.   0.   0.93 0.01 0.   0.   0.  ]
+ [0.05 0.03 0.03 0.   0.   0.88 0.01 0.   0.  ]
+ [0.   0.02 0.   0.01 0.01 0.   0.96 0.   0.  ]
+ [0.   0.   0.   0.04 0.02 0.   0.   0.94 0.  ]
+ [0.   0.   0.01 0.01 0.   0.   0.   0.02 0.96]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfKNN_singlelabel model
+Results of ClfKNN_singlelabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+[[1. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 1. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 1. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 1. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 1. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 1. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 1. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 1. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 1.]]
+Accuracy for testing: 0.92
+Confusion matrix for testing:
+[[0.98 0.   0.01 0.   0.01 0.   0.   0.   0.  ]
+ [0.02 0.88 0.02 0.01 0.03 0.   0.01 0.   0.02]
+ [0.04 0.   0.95 0.01 0.   0.   0.01 0.   0.  ]
+ [0.05 0.   0.02 0.87 0.02 0.   0.01 0.   0.03]
+ [0.04 0.   0.   0.   0.96 0.   0.   0.   0.  ]
+ [0.04 0.04 0.01 0.   0.03 0.87 0.01 0.   0.  ]
+ [0.03 0.   0.01 0.01 0.01 0.   0.94 0.   0.  ]
+ [0.02 0.12 0.   0.04 0.02 0.   0.   0.78 0.02]
+ [0.08 0.03 0.02 0.   0.   0.   0.   0.02 0.84]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Start cross validation for ClfMLP_singlelabel model
+Results of ClfMLP_singlelabel model
+Accuracy for training: 1.0
+Confusion matrix for training:
+[[1.   0.   0.   0.   0.   0.   0.   0.   0.  ]
+ [0.   1.   0.   0.   0.   0.   0.   0.   0.  ]
+ [0.   0.   1.   0.   0.   0.   0.   0.   0.  ]
+ [0.01 0.   0.   0.99 0.   0.   0.   0.   0.  ]
+ [0.   0.   0.   0.   1.   0.   0.   0.   0.  ]
+ [0.   0.   0.   0.   0.   1.   0.   0.   0.  ]
+ [0.   0.   0.   0.   0.   0.   1.   0.   0.  ]
+ [0.   0.   0.   0.   0.   0.   0.   1.   0.  ]
+ [0.   0.   0.   0.   0.   0.   0.   0.   1.  ]]
+Accuracy for testing: 0.95
+Confusion matrix for testing:
+[[0.96 0.   0.   0.01 0.02 0.   0.01 0.   0.  ]
+ [0.01 0.95 0.01 0.01 0.01 0.   0.   0.   0.01]
+ [0.02 0.   0.94 0.02 0.01 0.   0.01 0.01 0.01]
+ [0.02 0.01 0.   0.95 0.   0.   0.01 0.01 0.01]
+ [0.03 0.   0.   0.   0.97 0.   0.   0.   0.  ]
+ [0.   0.   0.   0.   0.   0.97 0.   0.03 0.  ]
+ [0.02 0.01 0.01 0.02 0.   0.   0.94 0.   0.  ]
+ [0.   0.   0.   0.06 0.02 0.   0.   0.92 0.  ]
+ [0.   0.03 0.01 0.01 0.   0.   0.   0.02 0.92]]
+ʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌʌ
+Best classifier model is ClfMLP_singlelabel.
+Best classifier model training accuracy 1.0.
+Best classifier model testing accuracy 0.95.
