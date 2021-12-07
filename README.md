@@ -2,10 +2,10 @@
 * This poject try to train AI to play Tic Tac Toe.
 
 ## Programs:
- 1)Classiﬁers.py: classifier program for all classification models
- 2)Regressors.py: regressor program for all regression models
- 3)PlayTicTacToe.py: play Tic Tac Toe with all trained models.
- 4)GA_ClfMLP_singleLabel.py: implement genetic algorithms to find best MLP parameters.
+ 1.Classiﬁers.py: classifier program for all classification models
+ 2.Regressors.py: regressor program for all regression models
+ 3.PlayTicTacToe.py: play Tic Tac Toe with all trained models.
+ 4.GA_ClfMLP_singleLabel.py: implement genetic algorithms to find best MLP parameters.
  
 ## Folders:
  1)TrainedCVresults: all trained CV records with different parameters.
