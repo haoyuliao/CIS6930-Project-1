@@ -1,6 +1,18 @@
 # CIS6930-Project1-Tic-Tac-Toe
-* This poject try to train AI to play Tic Tac Toe.
+* This poject try to train AI with different algorithms to play Tic Tac Toe.
 
+## Availabe Algorithms
+* Classificaitons
+ 1. KNN
+ 2. Linear-SVM
+ 3. RBF-SVM
+ 4. MLP
+ 5. GA-MLP
+* Regressions
+ 1. KNN
+ 2. Linear regression
+ 3. MLP
+ 
 ## Programs:
  1. Classiﬁers.py: classifier program for all classification models
  2. Regressors.py: regressor program for all regression models
