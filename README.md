@@ -3,11 +3,12 @@
 
 ## Availabe Algorithms
 * Classification
- 1. KNN
- 2. Linear-SVM
- 3. RBF-SVM
- 4. MLP
- 5. GA-MLP
+ 1. K-nearest neighbors algorithm (KNN)
+ 2. Support Vector Mahcine with Linear kernel (Linear-SVM)
+ 3. Support Vector Mahcine with RBF kernel (RBF-SVM)
+ 4. Multilayer perceptron (MLP)
+ 5. Multilayer perceptron trained parameters by genetic algorithm (GA-MLP)
+ 
 * Regression
  1. KNN
  2. Linear regression
